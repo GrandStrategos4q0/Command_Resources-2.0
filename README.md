@@ -1,5 +1,7 @@
 #### Command: Modern Operations - Resources
 
+Old databse became inaccessible to me, so I have recreated a new version that (hopefully) will not suffer the same fate.
+
 A community-created GitHub repository aimed at sharing material for use within **Command: Modern Operations** scenarios.
 
 Using the functionality of GitHub, we aim to develop installation Import/Export (.inst) files, LUA scripts and reference points zones, developed using open-source intelligence resources and research by their creators, and share them here, allowing for better organisation.
